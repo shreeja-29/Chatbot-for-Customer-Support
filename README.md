@@ -37,9 +37,7 @@ Frontend: HTML/CSS + JavaScript (optional)
 Web Integration: Flask or FastAPI
 
 📁 Folder Structure
-php
-Copy
-Edit
+
 customer-support-chatbot/
 ├── app.py                 # Backend server (Flask/FastAPI)
 ├── chatbot.py             # Chatbot logic and NLP handling
@@ -49,29 +47,7 @@ customer-support-chatbot/
 ├── data/                  # Intents/Responses
 ├── requirements.txt       # Python dependencies
 └── README.md
-💻 How to Run Locally
-Clone the repository
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/customer-support-chatbot.git
-cd customer-support-chatbot
-Install dependencies
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Start the app
-
-bash
-Copy
-Edit
-python app.py
-Open in Browser
-
-Go to: http://127.0.0.1:5000
 
 🧠 Learning Outcomes
 Built real-world chatbot using NLP
